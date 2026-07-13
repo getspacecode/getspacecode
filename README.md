@@ -33,6 +33,6 @@
 
 > ### Other Tools 🧰
 - Git & Github
-- Linux ( Arch - working on it )
+- Linux ( Arch )
 - Neovim ( super easy )
 > Btw for neovim, it's better than vscode, just try it.
