@@ -1,6 +1,6 @@
-## Hi Coder welcome to my Github profile. 👋
+## Hi Coder 👋
 
-🏛️ My name is Space, i live in Serbia, Belgrade.
+🏛️ My name is **Space**, i live in Serbia, Belgrade.
 
 
 
