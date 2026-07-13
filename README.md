@@ -36,3 +36,10 @@
 - Linux ( Arch )
 - Neovim ( super easy )
 > Btw for neovim, it's better than vscode, just try it.
+
+---
+
+# See my Project 📦
+🔆 All my projects are hard independent work, to show wht I'm learning.
+
+> This includes the landing page and pages for small bussi nes like gym, restaurant, etc
