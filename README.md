@@ -8,4 +8,6 @@
 
 # I focus on 🫪
 
-- > I'm learning Linux, designing NeoVim and a lot of other things, playing with the operating system like a child in the sand.
+- I'm learning Linux, designing NeoVim and a lot of other things, playing with the operating system like a child in the sand.
+- Also,I am looking for a job.
+- I'm starting to learn new technologies soon.
