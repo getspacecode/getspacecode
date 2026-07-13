@@ -16,7 +16,7 @@
 
 # Tech stack 💻
 
-### > FrontEnd 🏙️
+> ### FrontEnd 🏙️
 - Next.js
 - Tailwind CSS
 - Framer Motion
