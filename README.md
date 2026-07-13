@@ -15,3 +15,10 @@
 ---
 
 # Tech stack 💻
+
+### > FrontEnd 🏙️
+- Next.js
+- Tailwind CSS
+- Framer Motion
+- React Query
+> more than you imagine.
