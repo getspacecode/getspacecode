@@ -43,3 +43,12 @@
 - 🔆 All my projects are hard independent work, to show wht I'm learning.
 
 > This includes the landing page and pages for small bussi nes like gym, restaurant, etc
+
+---
+
+> ### Bonus Tips 🔥
+> I love God 🙏
+
+---
+
+> - You got to this part without following me!
