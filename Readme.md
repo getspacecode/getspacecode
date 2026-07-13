@@ -47,7 +47,8 @@
 ---
 
 > ### Bonus Tips 🔥
-> I love God 🙏
+> I love God 🙏 ( first in life )
+> I'm also working on learning as many languages ​​as possible.
 
 ---
 
