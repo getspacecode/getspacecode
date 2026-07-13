@@ -40,6 +40,6 @@
 ---
 
 # See my Project 📦
-🔆 All my projects are hard independent work, to show wht I'm learning.
+- 🔆 All my projects are hard independent work, to show wht I'm learning.
 
 > This includes the landing page and pages for small bussi nes like gym, restaurant, etc
