@@ -25,7 +25,14 @@
 
 > ### BackEnd ⚙️
 - Supabase
+- SQL
 - Nestjs
 - Express
 - Fastify
 > I'm working to learn more.
+
+> ### Other Tools 🧰
+- Git & Github
+- Linux ( Arch - working on it )
+- Neovim ( super easy )
+> Btw for neovim, it's better than vscode, just try it.
