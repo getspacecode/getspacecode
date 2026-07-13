@@ -22,3 +22,10 @@
 - Framer Motion
 - React Query
 > more than you imagine.
+
+> ### BackEnd ⚙️
+- Supabase
+- Nestjs
+- Express
+- Fastify
+> I'm working to learn more.
