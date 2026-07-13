@@ -14,4 +14,4 @@
 
 ---
 
-# 💻 Tech stack
+# Tech stack 💻
